@@ -464,9 +464,6 @@ li:hover .overlay-text {
 }
 
 .container {
-  margin-right: 120px;
-  display: flex;
-  align-items: baseline;
 }
 
 .page-footer {
