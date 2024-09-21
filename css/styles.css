@@ -419,6 +419,11 @@ li:hover .overlay-text {
 
 /* footer */
 
+.media-content {
+  display: flex;
+  align-items: baseline;
+}
+
 .social-media {
   font-weight: 500;
   font-size: 16px;
