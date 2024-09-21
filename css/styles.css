@@ -144,6 +144,12 @@ img {
   background: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
+  background-image: url(../images/people-office.jpg);
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  width: 1440px;
+  height: 600px;
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
